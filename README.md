@@ -74,16 +74,6 @@ Beberapa analisis yang dilakukan:
     <img src="./Output/plots/installs-by-type.png" width="50%">
     <p>Dalam data dari plot ini dapat dilihat bahwa app free jauh lebih banyak diinstall daripada pay to use app, selain karna free app jauh lebih ramah dompet jumlah app free juga jauh lebih banyak daripada app pay to use</p>
     <br>
-    <li><h3>MELIHAT APAKAH RATING DAN TYPE (Free or Pay) BERHUBUNGAN DENGAN INSTALLS</h3></li>
-    <img src="./Output/plots/rating-install-price-corr.png" width="50%">
-    <p>Berdasarkan correlation matrix, rating dan price/type aplikasi memiliki hubungan yang sangat lemah terhadap jumlah installs.
-    Nilai korelasi yang mendekati 0 menunjukkan bahwa rating maupun aplikasi berbayar tidak memiliki hubungan linear yang signifikan dengan jumlah penginstalan pada dataset ini.</p>
-    <br>
-    <li><h3>PENYEBARAN DATA / FREKUENSI INSTALL / DISTRIBUSI DATA</h3></li>
-    <img src="./Output/plots/dstribution-of-installs.png" width="50%">
-    <p>Histogram menunjukkan distribusi jumlah install aplikasi setelah dilakukan transformasi logaritma.
-    Transformasi log digunakan karena data installs memiliki rentang yang sangat besar, mulai dari ribuan hingga miliaran install.
-    Setelah transformasi, distribusi data terlihat lebih seimbang dan lebih mudah dianalisis.</p>
 </ul>
 
 <div align="center">
