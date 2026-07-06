@@ -57,9 +57,9 @@ Beberapa analisis yang dilakukan:
 </div>
 
 <ul>
-    <li><h3>KATEGORI DENGAN INSTALL TERBANYAK</h3></li>
-    <img src="./Output/plots/category-total.png" width="50%">
-    <p>Dalam plot ini kita bisa melihat bahwa kategori dengan aplikasi terbanyak adalah FAMILY dengan persentase 19.95%, diikuti oleh GAME dengan 10.93% dan TOOLS 8.78%</p>
+    <li><h3>Sale Amount Terbanyak Berdasarkan Tanggal</h3></li>
+    <img src="./Output/Plot/amount_sell-dates.png" width="50%">
+    <p>Di Plot ini dapat dilihat jika pada 2024-12-11 Sale mengalami lonjakan drastis pada priode tersebut</p>
     <br>
     <li><h3>KATEGORI DENGAN INSTALL TERBANYAK</h3></li>
     <img src="./Output/plots/total-installs-category.png" width="50%">
