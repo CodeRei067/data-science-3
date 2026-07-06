@@ -35,10 +35,10 @@ Menemukan insight tentang iklan yang dipasang Google.
 </div>
 Beberapa analisis yang dilakukan:
 <ul>
-    <li>-Distribusi rating aplikasi</li>
-    <li>-Kategori aplikasi paling populer</li>
-    <li>-Aplikasi gratis vs berbayar</li>
-    <li>-Hubungan jumlah review dengan rating</li>
+    <li>-Device Terbanyak Untuk Iklan</li>
+    <li>-Device Apa Yang Memiliki Sale Terbanyak</li>
+    <li>-Korelasi Antar Kolom</li>
+    <li>-Kapan Waktu Dengan Sale Tertinggi</li>
 </ul>
 
 <div align="center">
