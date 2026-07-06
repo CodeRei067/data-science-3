@@ -11,14 +11,14 @@ Project ini adalah bagian dari perjalanan belajar Data Science saya menggunakan 
     <h2>DATASET<h2>
 </div>
 Sumber: Dataset Google Ads
-Isi data: Nama aplikasi, kategori, rating, reviews, installs, price, dll.
+Isi data: Campaign_Name, Clicks, Impressions, Cost, Leads, Conversions, dll.
 
 <div align="center">
     <h2>GOALS<h2>
 </div>
 Membersihkan dan memahami data (Data Cleaning)
 Melakukan Exploratory Data Analysis (EDA)
-Menemukan insight tentang aplikasi populer
+Menemukan insight tentang iklan yang dipasang Google.
 
 <div align="center">
     <h2>DATA CLEANING<h2>
@@ -26,7 +26,7 @@ Menemukan insight tentang aplikasi populer
 <ul>
     <li>-Menghapus missing value</li>
     <li>-Menangani data duplikat</li>
-    <li>-Mengubah tipe data (contoh: installs, price)</li>
+    <li>-Mengubah tipe data (contoh: Ad_Date)</li>
     <li>-Standarisasi format data</li>
 </ul>
 
