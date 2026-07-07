@@ -65,7 +65,7 @@ Beberapa analisis yang dilakukan:
     <img src="./Output/Plot/devices-sum.png" width="50%">
     <p>Diagram batang ini menunjukan device apa yang paling banyak mendapat ads, dan Dekstop menjadi device dengan penerima ads terbanyak diikuti Mobile dan terakhir adalah Tablet</p>
     <br>
-     <li><h3>KATEGORI DENGAN RATA-RATA INSTALL TERBANYAK</h3></li>
+     <li><h3>DEVICE YANG MENGHASILKAN SALE_AMOUNT TERBANYAK</h3></li>
     <img src="./Output/Plot/device-sale.png" width="50%">
     <p>Diagram batang ini menunjukan device mana yang menghasilkan Sale_Amount tertinggi dan hasilnya adalah Dekstop menjadi device yang menghasilkan Sale_Amount terbanyak</p>
     <br>
