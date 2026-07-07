@@ -61,9 +61,9 @@ Beberapa analisis yang dilakukan:
     <img src="./Output/Plot/amount_sell-dates.png" width="50%">
     <p>Di Plot ini dapat dilihat jika pada 2024-12-11 Sale mengalami lonjakan drastis pada priode tersebut</p>
     <br>
-    <li><h3>KATEGORI DENGAN INSTALL TERBANYAK</h3></li>
-    <img src="./Output/plots/total-installs-category.png" width="50%">
-    <p>Dalam plot ini kita bisa melihat bahwa kategori dengan Installs terbanyak adalah GAME</p>
+    <li><h3>DEVICE TERBANYAK</h3></li>
+    <img src="./Output/Plot/devices-sum.png" width="50%">
+    <p>Diagram batang ini menunjukan device apa yang paling banyak mendapat ads, dan Dekstop menjadi device dengan penerima ads terbanyak diikuti Mobile dan terakhir adalah Tablet</p>
     <br>
      <li><h3>KATEGORI DENGAN RATA-RATA INSTALL TERBANYAK</h3></li>
     <img src="./Output/plots/installs-avg-plot.png" width="50%">
