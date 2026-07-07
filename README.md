@@ -70,7 +70,7 @@ Beberapa analisis yang dilakukan:
     <p>Diagram batang ini menunjukan device mana yang menghasilkan Sale_Amount tertinggi dan hasilnya adalah Dekstop menjadi device yang menghasilkan Sale_Amount terbanyak</p>
     <br>
     <li><h3>ANALISIS KORELASI</h3></li>
-    <img src=".Output/Plot/corr-clickimp.png" width="50%">
+    <img src="./Output/Plot/corr-clickimp.png" width="50%">
     <p>Setelah mengecek korelasi, hasil menunjukan bahwa Impression tidak begitu berhubungan dengan jumlah klik orang-orang, bisa jadi hanya tak sengaja diklik dan sebagainya</p>
     <br>
 </ul>
