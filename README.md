@@ -66,9 +66,8 @@ Beberapa analisis yang dilakukan:
     <p>Diagram batang ini menunjukan device apa yang paling banyak mendapat ads, dan Dekstop menjadi device dengan penerima ads terbanyak diikuti Mobile dan terakhir adalah Tablet</p>
     <br>
      <li><h3>KATEGORI DENGAN RATA-RATA INSTALL TERBANYAK</h3></li>
-    <img src="./Output/plots/installs-avg-plot.png" width="50%">
-    <p>Dalam plot ini bisa dilihat bahwa rata-rata Installs terbanyak adalah COMMUNICATION</p>
-    <p>Mengapa lebih banyak dari GAME padahal GAME memiliki jumlah total Installs terbanyak? Itu dikarnakan masing masing app dalam kategori COMMUNICATION memiliki Installs sangat banyak, contohnya WhatsApp yang sangat umum dan banyak digunakan oleh masyarakat. Sedangkan dalam kategori GAME Install masing masing aplikasi sangat sedikit walau jumlah app dalam kategori GAME sangat banyak</p>
+    <img src="./Output/Plot/device-sale.png" width="50%">
+    <p>Diagram batang ini menunjukan device mana yang menghasilkan Sale_Amount tertinggi dan hasilnya adalah Dekstop menjadi device yang menghasilkan Sale_Amount terbanyak</p>
     <br>
     <li><h3>TIPE APLIKASI YANG PALING BANYAK DIINSTALL (Free or Pay)</h3></li>
     <img src="./Output/plots/installs-by-type.png" width="50%">
