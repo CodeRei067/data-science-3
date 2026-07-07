@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="100%">
- <img src="">
+ <img src="Google-AdWords-logo-rectangle.png">
 </div>
 Project ini adalah bagian dari perjalanan belajar Data Science saya menggunakan dataset Google Ads. Fokus utama adalah memahami momen sale tertinggi berdasarkan tanggal, jumlah klik dan ikaln paling banyak diclick.
 
